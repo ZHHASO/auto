@@ -1,0 +1,9 @@
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\bin\Debug\智能零件盒.exe
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\bin\Debug\智能零件盒.pdb
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\obj\Debug\智能零件盒.csprojResolveAssemblyReference.cache
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\obj\Debug\智能零件盒.Form1.resources
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\obj\Debug\智能零件盒.Properties.Resources.resources
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\obj\Debug\智能零件盒.csproj.GenerateResource.Cache
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\obj\Debug\智能零件盒.exe
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\obj\Debug\智能零件盒.pdb
+C:\Users\ZHHAS\Desktop\自动零件盒\新建文件夹\智能零件盒\智能零件盒\obj\Debug\智能零件盒.exe.licenses

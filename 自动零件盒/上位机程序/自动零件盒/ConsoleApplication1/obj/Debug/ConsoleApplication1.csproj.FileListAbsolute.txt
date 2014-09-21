@@ -1,0 +1,6 @@
+C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
