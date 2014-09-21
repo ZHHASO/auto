@@ -13,3 +13,6 @@ C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\自动零
 C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\自动零件盒\obj\Debug\自动零件盒.exe.manifest
 C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\自动零件盒\obj\Debug\自动零件盒.application
 C:\Users\ZHHAS\Desktop\自动零件盒\上位机程序\自动零件盒\自动零件盒\obj\Debug\自动零件盒.Form3.resources
+C:\Users\mrc\Desktop\auto\自动零件盒\上位机程序\自动零件盒\自动零件盒\bin\Debug\自动零件盒.exe.config
+C:\Users\mrc\Desktop\auto\自动零件盒\上位机程序\自动零件盒\自动零件盒\obj\Debug\自动零件盒.exe
+C:\Users\mrc\Desktop\auto\自动零件盒\上位机程序\自动零件盒\自动零件盒\obj\Debug\自动零件盒.pdb
